@@ -29,7 +29,8 @@ Each page is packed on its own, so memory stays fixed and nothing grows. Use it 
 readings while Wi-Fi is down, to log for hours before writing to flash, to keep a long graph
 history, or to fit more readings in ``alarm.sleep_memory`` on ESP32 boards.
 
-The page format is the jam packer v0.6 format, byte for byte.
+The page format is the jam packer v0.6 format, byte for byte. The format and the original
+codec are Phillip Torrone's jam packer v0.6.
 
 
 Dependencies

@@ -1,4 +1,4 @@
-# SPDX-FileCopyrightText: Copyright (c) 2026 Adafruit Industries
+# SPDX-FileCopyrightText: Copyright (c) 2026 Phillip Torrone for Adafruit Industries
 # SPDX-FileCopyrightText: Copyright (c) 2026 Mikey Sklar for Adafruit Industries
 #
 # SPDX-License-Identifier: MIT
